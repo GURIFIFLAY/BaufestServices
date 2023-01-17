@@ -2,7 +2,7 @@ package utils;
 
 public class Constants {
 
-    private static String URL ="https://restful-booker.herokuapp.com";
+    private static String URL ="https://restful-booker.herokuapp.com/";
     private static String LOGIN_ENDPOINT="/auth";
     private static String BOOKING_ENDPOINT="/booking";
 

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete a booking","Successfully delete a booking with cookie","FAILURE","2023-01-17T16:17:30.405602-03:00[America/Argentina/Mendoza]","0.0","0.99"
+"Delete a booking","Invalid booking id","FAILURE","2023-01-17T16:17:31.406983-03:00[America/Argentina/Mendoza]","0.0","1.22"
+"Delete a booking","Unauthorized access","FAILURE","2023-01-17T16:17:32.635544-03:00[America/Argentina/Mendoza]","0.0","0.88"

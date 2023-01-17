@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"GetBookingById","Invalid booking id","SUCCESS","2023-01-17T16:17:42.525915-03:00[America/Argentina/Mendoza]","0.0","0.88"
+"GetBookingById","Empty search","SUCCESS","2023-01-17T16:17:43.413236-03:00[America/Argentina/Mendoza]","0.0","0.85"

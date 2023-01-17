@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="Delete a booking" skipped="0" tests="4" time="4.07" timestamp="2023-01-17 04:17:29"><testcase name="Successfully delete a booking"/><testcase name="Successfully delete a booking with cookie"><failure message="expected:&lt;403&gt; but was:&lt;201&gt;" type="java.lang.AssertionError">expected:&lt;403&gt; but was:&lt;201&gt;</failure><system-err>expected:&lt;403&gt; but was:&lt;201&gt;
+actions.Actions.assertStatusCode(Actions.java:21)
+steps.Steps.theStatusCodeShouldBe(Steps.java:28)
+✽.the status code should be 201(file:src/test/resources/features/DeleteBooking.feature:10)
+</system-err></testcase><testcase name="Invalid booking id"><failure message="expected:&lt;405&gt; but was:&lt;404&gt;" type="java.lang.AssertionError">expected:&lt;405&gt; but was:&lt;404&gt;</failure><system-err>expected:&lt;405&gt; but was:&lt;404&gt;
+actions.Actions.assertStatusCode(Actions.java:21)
+steps.Steps.theStatusCodeShouldBe(Steps.java:28)
+✽.the status code should be 404(file:src/test/resources/features/DeleteBooking.feature:14)
+</system-err></testcase><testcase name="Unauthorized access"><failure message="expected:&lt;403&gt; but was:&lt;401&gt;" type="java.lang.AssertionError">expected:&lt;403&gt; but was:&lt;401&gt;</failure><system-err>expected:&lt;403&gt; but was:&lt;401&gt;
+actions.Actions.assertStatusCode(Actions.java:21)
+steps.Steps.theStatusCodeShouldBe(Steps.java:28)
+✽.the status code should be 401(file:src/test/resources/features/DeleteBooking.feature:18)
+</system-err></testcase></testsuite>

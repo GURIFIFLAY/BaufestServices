@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Update a current booking","Successfully update a current booking","FAILURE","2023-01-17T16:17:49.841151-03:00[America/Argentina/Mendoza]","0.0","0.98"
+"Update a current booking","Invalid booking id","FAILURE","2023-01-17T16:17:50.827543-03:00[America/Argentina/Mendoza]","0.0","1.01"
+"Update a current booking","Invalid booking information","FAILURE","2023-01-17T16:17:51.841989-03:00[America/Argentina/Mendoza]","0.0","1.35"
+"Update a current booking","Unauthorized access","FAILURE","2023-01-17T16:17:53.199547-03:00[America/Argentina/Mendoza]","0.0","1.32"
+"Update a current booking","Successfully update a current booking with XML body","FAILURE","2023-01-17T16:17:54.522887-03:00[America/Argentina/Mendoza]","0.0","0.94"
+"Update a current booking","Successfully update a current booking with URL-encoded body","FAILURE","2023-01-17T16:17:55.466713-03:00[America/Argentina/Mendoza]","0.0","1.0"

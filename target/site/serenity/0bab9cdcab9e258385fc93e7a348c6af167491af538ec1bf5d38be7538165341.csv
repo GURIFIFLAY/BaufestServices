@@ -1,3 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Booking","As a user I want to delete a booking","FAILURE","2023-01-16T23:19:30.958951-03:00[America/Argentina/Mendoza]","0.0","0.94"
-"Booking","As a user I want to get a booking by id","FAILURE","2023-01-16T23:19:31.997633-03:00[America/Argentina/Mendoza]","0.0","2.44"
