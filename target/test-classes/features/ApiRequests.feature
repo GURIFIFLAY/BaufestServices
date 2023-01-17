@@ -16,7 +16,7 @@ Feature: Booking
     Then I see the status code as 200
 
   Scenario: As a user I want to delete a booking
-    When I trigger DELETE call on booking number 12
+    When I trigger DELETE call on booking number 13
     Then I see the status code as 201
 
   Scenario: As a user I want to get a booking by id
