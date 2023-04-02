@@ -1,9 +1,6 @@
 **Introduccion**
 
-Este ejercio se resolvio utilizando como base el framework  [Aut0code ](https://github.com/underc0delabs/Autoc0de-API) de la fundacion Underc0de (de la cual soy parte :D).
-
-Se realizan algunos refactors dentro del core basados en principios solid como la responsabilidad unica
-
+En este ejercicio, utilicé el framework Aut0code de la fundación Underc0de, de la cual formo parte. Durante el proceso de desarrollo, realicé algunos refactors en el core del framework, aplicando principios SOLID, como el de responsabilidad única. De esta manera, logré mejorar la calidad del código y asegurarme de que cada componente cumpliera con su función específica.
 
 
 # API with "Cucumber" and "Serenity BDD"
