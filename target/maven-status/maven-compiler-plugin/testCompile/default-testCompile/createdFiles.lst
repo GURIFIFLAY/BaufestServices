@@ -1,6 +1,0 @@
-steps/Steps.class
-utils/Constants.class
-Runner/CucumberRunner.class
-actions/MasterRequest.class
-utils/Common.class
-actions/Actions.class

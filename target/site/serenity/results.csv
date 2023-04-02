@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"PetSwagger Test","Successfully create a new pet","SUCCESS","2023-04-02T01:07:55.227101-03:00[America/Argentina/Mendoza]","0.0","6.56"
-"PetSwagger Test","Successfully get a pet","SUCCESS","2023-04-02T01:08:01.800101-03:00[America/Argentina/Mendoza]","0.0","1.07"
-"PetSwagger Test","Successfully modified a pet","SUCCESS","2023-04-02T01:08:02.873236-03:00[America/Argentina/Mendoza]","0.0","1.05"
