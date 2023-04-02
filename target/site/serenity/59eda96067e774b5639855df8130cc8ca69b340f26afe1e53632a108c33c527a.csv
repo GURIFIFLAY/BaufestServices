@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Create a new booking","Invalid booking information","FAILURE","2023-01-17T16:17:26.356788-03:00[America/Argentina/Mendoza]","0.0","0.95"
-"Create a new booking","Successfully create a new booking with XML body","FAILURE","2023-01-17T16:17:27.312618-03:00[America/Argentina/Mendoza]","0.0","1.11"
-"Create a new booking","Successfully create a new booking with URL-encoded body","FAILURE","2023-01-17T16:17:28.433876-03:00[America/Argentina/Mendoza]","0.0","0.98"

@@ -1,7 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"GetBookingIds","Successfully retrieve all booking IDs","SUCCESS","2023-01-17T16:17:33.52946-03:00[America/Argentina/Mendoza]","0.0","1.67"
-"GetBookingIds","Successfully retrieve filtered booking IDs by Last name","SUCCESS","2023-01-17T16:17:35.20669-03:00[America/Argentina/Mendoza]","0.0","1.48"
-"GetBookingIds","Successfully retrieve filtered booking IDs by First name","SUCCESS","2023-01-17T16:17:36.689695-03:00[America/Argentina/Mendoza]","0.0","1.26"
-"GetBookingIds","Successfully retrieve filtered booking IDs by First and Last name","SUCCESS","2023-01-17T16:17:37.9591-03:00[America/Argentina/Mendoza]","0.0","1.21"
-"GetBookingIds","Successfully retrieve filtered booking IDs by Checkin date","SUCCESS","2023-01-17T16:17:39.170862-03:00[America/Argentina/Mendoza]","0.0","0.93"
-"GetBookingIds","Successfully retrieve filtered booking IDs by Checkout date","SUCCESS","2023-01-17T16:17:40.106916-03:00[America/Argentina/Mendoza]","0.0","1.37"

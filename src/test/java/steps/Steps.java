@@ -89,4 +89,15 @@ public class Steps {
     public void iSendAPUTRequestToWithFileWithWithNotAut(String arg0, String arg1, int arg2) throws IOException {
         actions.makePutRequestWithNoAuth(arg0, arg1, arg2);
     }
+
+    @When("I send a GET request to {string} with path params {int}")
+    public void iSendAGETRequestToWithPathParams(String arg0, int arg1) throws IOException {
+        actions.makeGetRequest(arg0+"/"+arg1);
+    }
+
+    @When("I send a PUT request to {string} with {string} file")
+    public void iSendAPUTRequestToWithFile(String endpoint, String payload) throws IOException {
+        actions.makePostRequest(endpoint,payload);
+
+    }
 }

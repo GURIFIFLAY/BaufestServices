@@ -55,6 +55,12 @@ public class Actions extends MasterRequest {
         response = makeBaseRequestNotAuth().when().delete(Constants.getURL() +endpoint+"/"+id);
     }
     @Step
+    public void makePutRequest(String bookingEndpoint, String jsonPayLoad) throws IOException {
+
+        response = makeBaseRequest(jsonPayLoad).when().put(Constants.getURL() +bookingEndpoint);
+    }
+
+    @Step
     public void makePutRequest(String bookingEndpoint, String jsonPayLoad, int id) throws IOException {
 
         response = makeBaseRequest(jsonPayLoad).when().put(Constants.getURL() +bookingEndpoint+"/"+id);
