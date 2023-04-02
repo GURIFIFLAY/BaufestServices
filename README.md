@@ -1,6 +1,12 @@
-# API with "Cucumber" and "Serenity BDD"
-* This project explains how to perform the API operations by using REST ASSURED with Serenity.
+**Introduccion**
 
+Este ejercio se resolvio utilizando como base el framework  [Aut0code ](https://github.com/underc0delabs/Autoc0de-API) de la fundacion Underc0de (de la cual soy parte :D).
+
+Se realizan algunos refactors dentro del core basados en principios solid como la responsabilidad unica
+
+
+
+# API with "Cucumber" and "Serenity BDD"
 * Use Maven to install the dependencies and run the tests.
 
 ## Description:
