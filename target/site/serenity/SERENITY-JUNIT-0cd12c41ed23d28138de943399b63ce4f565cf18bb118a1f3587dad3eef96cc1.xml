@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Create an auth token" skipped="0" tests="2" time="7.34" timestamp="2023-01-17 04:17:17"><testcase name="Successfully create an auth token"/><testcase name="Invalid credentials"><failure message="expected:&lt;200&gt; but was:&lt;401&gt;" type="java.lang.AssertionError">expected:&lt;200&gt; but was:&lt;401&gt;</failure><system-err>expected:&lt;200&gt; but was:&lt;401&gt;
-actions.Actions.assertStatusCode(Actions.java:21)
-steps.Steps.theStatusCodeShouldBe(Steps.java:28)
-✽.the status code should be 401(file:src/test/resources/features/AuthToken.feature:11)
-</system-err></testcase></testsuite>

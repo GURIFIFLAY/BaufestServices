@@ -2,9 +2,9 @@ package utils;
 
 public class Constants {
 
-    private static String URL ="https://restful-booker.herokuapp.com/";
+    private static String URL ="https://petstore.swagger.io/v2/";
     private static String LOGIN_ENDPOINT="/auth";
-    private static String BOOKING_ENDPOINT="/booking";
+    private static String ENDPOINT="/pet";
 
     public static String getLoginEndpoint() {
         return LOGIN_ENDPOINT;
@@ -14,12 +14,12 @@ public class Constants {
         LOGIN_ENDPOINT = loginEndpoint;
     }
 
-    public static String getBookingEndpoint() {
-        return BOOKING_ENDPOINT;
+    public static String getEndpoint() {
+        return ENDPOINT;
     }
 
-    public static void setBookingEndpoint(String bookingEndpoint) {
-        BOOKING_ENDPOINT = bookingEndpoint;
+    public static void setBookingEndpoint(String endpoint) {
+        ENDPOINT = endpoint;
     }
 
     public static String getURL() {

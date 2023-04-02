@@ -1,6 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Update a current booking with a partial payload","Successfully update a current booking with a partial payload","FAILURE","2023-01-17T16:17:44.267043-03:00[America/Argentina/Mendoza]","0.0","1.22"
-"Update a current booking with a partial payload","Invalid booking id","FAILURE","2023-01-17T16:17:45.501046-03:00[America/Argentina/Mendoza]","0.0","0.87"
-"Update a current booking with a partial payload","Invalid partial payload","FAILURE","2023-01-17T16:17:46.380112-03:00[America/Argentina/Mendoza]","0.0","0.88"
-"Update a current booking with a partial payload","Unauthorized access","FAILURE","2023-01-17T16:17:47.275025-03:00[America/Argentina/Mendoza]","0.0","0.87"
-"Update a current booking with a partial payload","Successfully update a current booking with a partial payload in URL-encoded format","FAILURE","2023-01-17T16:17:49.011337-03:00[America/Argentina/Mendoza]","0.0","0.82"

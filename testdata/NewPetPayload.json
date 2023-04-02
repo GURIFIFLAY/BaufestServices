@@ -1,0 +1,23 @@
+{
+  "name": "doggie",
+  "photoUrls": [
+    "elit cillum exercitation",
+    "tempor cupidatat sint aliqua"
+  ],
+  "id": -36071088,
+  "category": {
+    "id": 36135777,
+    "name": "laborum elit"
+  },
+  "tags": [
+    {
+      "id": -58986065,
+      "name": "id ut dolore ipsum dol"
+    },
+    {
+      "id": -20316514,
+      "name": "adipisicing nostrud"
+    }
+  ],
+  "status": "available"
+}
